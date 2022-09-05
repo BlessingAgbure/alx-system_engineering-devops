@@ -1,1 +1,4 @@
 #!/bin/bash
+/etc/passwd >> 2-hellofile
+echo /etc/passwd
+/etc/passwd
